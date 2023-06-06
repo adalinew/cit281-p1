@@ -5,4 +5,4 @@ Gain experience using CLI, CLI commands, VS code and non-web server Node.js Java
 
 [Link to repository](https://github.com/adalinew/cit281-p1.git)
 
-[Back](https://adalinew.github.io/CIT-281/)
+[Back to Home](https://adalinew.github.io/CIT-281/)
